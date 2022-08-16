@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(84, 109, 84);
+   } 
+   hr {
+    border-style:none;
+    border-top-style: dotted ;
+    border-color:rgb(137, 133, 133) ;
+    border-width: 4px ;
+    width: 3%;     
+   }
+   img {
+    height: 125px; 
+   }
+h1 {
+    color: aqua;
+}
+h3 {
+    color: aqua;
+}
+h2 {
+    color: aqua;
+}   
